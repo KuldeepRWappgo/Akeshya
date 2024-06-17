@@ -317,7 +317,28 @@ a {
 
 /* Section4 Css */
 
+.section4-container{
+  display: flex;
+}
+
 .sec4-img{
   width: 526px;
   height: 300px;
+}
+
+.sec4-emojis {
+  display: block;
+  font-size: 36px;
+  color: #14279b;
+  float: left;
+  line-height: 0;
+}
+
+.count-up-count{
+  font-size: 36px;
+  line-height: 30px;
+  display: block;
+  font-weight: 700;
+  color: #222222;
+  margin-left: 50px;
 }
